@@ -288,6 +288,7 @@
 		0A11894620F3BA2400AF8229 /* MockPerformanceMetricsTracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockPerformanceMetricsTracker.swift; sourceTree = "<group>"; };
 		0A11894A20F3CB6800AF8229 /* NetworkStorePerformanceMetricsTrackerTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkStorePerformanceMetricsTrackerTestCase.swift; sourceTree = "<group>"; };
 		0A11894C20F416EB00AF8229 /* PersistencePerformanceMetricsTrackerTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistencePerformanceMetricsTrackerTestCase.swift; sourceTree = "<group>"; };
+		0A11894F20F4F35F00AF8229 /* Cartfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Cartfile; sourceTree = "<group>"; };
 		0A265E1C20EAEA8A00A55ED9 /* BoxTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoxTestCase.swift; sourceTree = "<group>"; };
 		0A265E1E20EAEC7500A55ED9 /* URLRequestTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLRequestTestCase.swift; sourceTree = "<group>"; };
 		0A265E2020EAEEB900A55ED9 /* HTTPTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPTestCase.swift; sourceTree = "<group>"; };
@@ -629,6 +630,7 @@
 				0A3C2D001EA7E1B500EFB7D4 /* .codecov.yml */,
 				OBJ_6 /* Package.swift */,
 				0A3C2D021EA7E1B500EFB7D4 /* Alicerce.podspec */,
+				0A11894F20F4F35F00AF8229 /* Cartfile */,
 			);
 			name = Metadata;
 			sourceTree = "<group>";
